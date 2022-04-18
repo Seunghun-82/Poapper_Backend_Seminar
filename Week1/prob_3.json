@@ -1,0 +1,12 @@
+{
+    "name" : "Seunghun Oh",
+    "job" : "Student",
+    "age" : 23,
+    "hobby" : ["Rock climbing", "league of legend", "driving a car"],
+    "course_table" : [
+        {"name" : "Computer Graphics", "id" : "CSED451"},
+        {"name" : "Computer Security", "id" : "CSED415"},
+        {"name" : "Computer Network", "id" : "CSED353"},
+        {"name" : "Introduction to Optimization", "id" : "IMEN261"}
+    ]
+}
